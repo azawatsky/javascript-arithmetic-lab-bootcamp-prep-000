@@ -19,6 +19,7 @@ function inc(n) {
 }
 
 function dec(n) {
+  var n=4
   return n--
 }
 
